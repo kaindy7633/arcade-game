@@ -1,0 +1,14 @@
+{
+  "name": "arcade-game",
+  "version": "1.0.0",
+  "description": "优达学城前端课程实战项目 - 青蛙过河",
+  "main": "index.html",
+  "scripts": {
+    "server": "http-server"
+  },
+  "author": "liuzhen",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
